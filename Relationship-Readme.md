@@ -13,7 +13,8 @@ The model is designed to:
 ## 2) Model Reference (Image 1 & Image 2)
 
 ### Image1  Relationship Diagram 
-<img width="588" height="283" alt="image" src="https://github.com/user-attachments/assets/ef8809a1-2856-47fe-b4ee-75aef14957e9" />
+<img width="618" height="298" alt="image" src="https://github.com/user-attachments/assets/c9583ca1-7563-4a74-a808-594599e83c2a" />
+
 
 
 Image 1 shows the semantic model layout with:
@@ -22,7 +23,8 @@ Image 1 shows the semantic model layout with:
 - Additional facts (fuel, maintenance, safety, delivery events, monthly metrics) connected through natural keys (`driver_id`, `truck_id`, `trip_id`, and date/month fields)
 
 ### Image2 Table/Column attributes
-<img width="682" height="326" alt="image" src="https://github.com/user-attachments/assets/b808b9e3-d8b5-49ba-8ddc-bccd6224aea0" />
+<img width="681" height="336" alt="image" src="https://github.com/user-attachments/assets/b4180dbe-cf4f-4cfe-a0c0-a96d02f083c1" />
+
 
 Image 2 confirms:
 - Dimension tables contain descriptive attributes (names, types, locations, acquisition dates, etc.)

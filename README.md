@@ -42,7 +42,8 @@ Power BI Reports (Insights & Storytelling)
 Logistics Operations Dataset
 </a>
 
-<img width="548" height="332" alt="image" src="https://github.com/user-attachments/assets/892e7b28-92d9-4feb-937a-77f99a40b30c" />
+<img width="486" height="296" alt="image" src="https://github.com/user-attachments/assets/43c83b52-3580-4b22-8a26-c03849719ab2" />
+
  
 **Architecture Design Principles**
 ---
